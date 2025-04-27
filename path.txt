@@ -1,0 +1,100 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xAoox           x   x     x  ooooox  ooox  ooooox   x   x  oooooooxooox x     x    oooooooxooooooooo
+xxxoxxxxxxx xxxxx x x xxx x xoxxxoxxxoxoxxxoxxxoxxx x x x xoxxxxxoxoxox x xxx x xxxoxxxxxoxoxxxxxxxo
+x xooooooox       x     x   xoooxoxoooxoooxox xooox   x   xox   xoooxox     x   xooox   xoxooox   xo
+x xxxxxxxox xxxxxxxxxxxxx xxxxxoxoxoxxxxxoxox xxxoxxxxxxx xox x xxxxxoxxxxxxxxxxxoxxxxx xox xox x xo
+x xooo  xox     xooooooox     xoxoxoooooxooox   xooooooox xox x     xoxooooooooooox     xox xox x xo
+x xoxoxxxoxxxxxxxoxxxxxox xxxxxoxoxxx xoxxxxx xxxxxxxxxox xox x xxx xoxoxxxxxxxxxxxxx xxxoxxxox x xo
+xoooxoooooxoooooxoooooxox xoooooxooox xox         xoooxox xox x   x xooox     x     x   xoooxox x xo
+xoxxxxxxxxxoxxxox xxxoxoxxxoxxxxxxxox xoxxxxxxx xxxoxoxoxxxox xxx xxxxxxxxx x xxx x x x xxxoxoxxx xo
+xoxoooooooooxooox   xoxoooxooox xooox xoxooooox   xoxoooxooox   x     x     x     x x x xoooxooox xo
+xoxoxxxxxxxxxoxxx xxxoxxxoxxxox xoxxxxxoxoxxxoxxx xoxxxxxoxxxxxxxxx x x xxxxxxxxxxx x x xoxxxxxox xo
+xoxoooooxooooox x xooox xooooox xoxoooooxox xooox  ox x  oooooxooox x   xooooooox x x x xoooooxox xo
+xoxxxxxoxoxxxxx x xoxxx xxxxxxx xoxoxxxxxox xxxoxxxox x xxxxxoxoxox xxxxxoxxxxxox x xxx xxxxxoxox xo
+xoooooooxox       xox       xoooooxoooooxooox xoooxox   xoooxoooxoxooooooox xooox   x     x xoooxooo
+xxxxxxxxxox xxxxxxxoxxx xxxxxoxxxxxxx xoxxxox xxxoxox xxxoxoxxxxxoxoxxxxxxx xoxxx xxx xxx x xxxxxoxx
+x xooooooox       xoooxoooooooxooooox xoxooox xoooxox   xoxoooooooxox   x   xooox     x x x     xooo
+x xoxxxxxxxxxxxxx xxxoxoxxxxxxxoxxxoxxxoxoxxx xoxxxoxxxxxoxxxxxxxxxox xxx x xxxoxxxxxxx x x xxxxxxxo
+xoooxooox  ooooox   xoxooox  ooox xoxoooxox   xox xoooooxooox   xooox     x   xooooooox x x       xo
+xoxxxoxox xoxxxoxxx xoxxxoxxxoxxx xoxoxxxox xxxox xxxxxox xox xxxoxxx xxxxxxx xxxxxxxox x x xxx x xo
+xoooooxox xoooxox   xox  ooooox   xoxooooo  xooox     xox xoxooooox     x x       xooox x x x   x xo
+xxxxxxxoxxxxxoxoxxx xoxxxxxxxxx xxxox xxxxxxxoxxx xxxxxoxxxoxoxxxxxxxxx x x xxxxxxxoxxx x xxx xxx xo
+x     xoooooxoxooox xooox x     xooox   xoooxox       xoooooxooooooox     x       xox         x   xo
+x x xxxxxxxoxoxxxoxxxxxox x x xxxoxxxxxxxoxoxoxxxxxxx xxxxxxxxxxxxxox xxxxxxx xxx xox xxxxxxxxxxxxxo
+x x xoooooooxoooxoxooooox   x   xoooxoooxoxoooxooooox             xox   x   x   x xox     xooooooooo
+x x xoxxxxxxx xoxoxoxxxxxxxxx x xxxoxoxoxoxxxxxoxxxoxxxxx xxxxxxxxxoxxxxx x xxxxx xoxxxxxxxoxxxxxxxx
+x x xoxooox   xoxooox       x x   xoooxoxoooooxo  xoooooxoooooooooxox     x       xoooxoooooxooox   
+x xxxoxoxox xxxoxxxxxxxxx x xxx x xxxxxoxxx xoxoxxxxxxxoxoxxxxxxxoxox xxxxxxxxxxx xxxoxoxxxxxoxox x 
+x xoooxoxox   xooooooooox x     x   x xooox xoxoxoooxoooxoooooxoooxox       x       xoooxoooooxox x 
+x xoxxxoxoxxxxxxxxxxxxxox xxxxxxxxx x xxxox xoxoxoxoxoxxxxxxxoxoxxxox xxxxx xxxxxxxxxxxxxoxxxxxox x 
+x xoooxoxoooooooooooxooox         x   x xox xoooxoxooox   xoooxooooox x   x        ooox  ooox xox x 
+x xxxoxoxxxxxxxxxxxoxoxxxxxxx xxx xxx x xoxxx xxxoxxxxxxx xoxxxxxxxxx x x xxxxxxxxxoxoxxxxxox xoxxx 
+x xoooxoooooxoooxoooxox     x x x x x   xooox   xooooooox xooox       x x x       xoxoooxooox xooooo
+x xoxxxxxxxoxoxoxoxxxox xxx x x x x x xxxxxoxxxxxxxxxxxox xxxox xxxxxxx xxx xxx xxxoxxxoxoxxx xxxxxo
+x xoxoooooxoxoxoxoxooox   x x   x x   x   xoooooooooooooxoooxox   x   x     x   xooox xoooxooooooooo
+x xoxoxxxoxoxoxoxoxoxxxxx x xxxxx xxxxx x xxxxxxxxxxxxxxxoxoxoxxx x x xxxxxxx xxxoxxx xxxxxoxxxxxxxx
+x xooox xoxoooxoxooox     x       x     x       x   x xoooxooox x   x       x xooox       xoooxooooo
+x xxxxx xoxxxxxoxxxxx xxxxxxxxxxx x xxxxxxxxx x x x x xoxxxxxxx xxxxxxxxxxx x xoxxxxxxx x xxxoxoxxxo
+x       xoooooxooooox x     x   x x   x   x   x   x   xox  ooox   x           xooooooox x xoooxoooxo
+x xxxxx xxxxxoxxxxxox x xxx xxx x xxx x x x xxxxxxxxx xoxxxoxox xxx xxxxxxxxx xxxxxxxox x xoxxxxxoxo
+x x   x     xoxooooox     x   x   x   x x   x   x   x xoooooxox   x   xooooox       xox x xoooooooxo
+x x x xxxxx xoxoxxxxxxxxxxxxx xxxxx xxx x xxx x x x xxxxxxxxxoxxx xxx xoxxxoxxxxxxx xox xxxxxxxxxxxo
+x   x   x   xoxooox         x         x x x   x   x       x xooox     xox xoxooox   xoxoooooxoooxooo
+xxxxx xxx x xoxxxox xxxxxxx xxxxx xxxxx xxx xxxxxxxxx xxx x xxxox xxxxxox xoxoxoxxx xoxoxxxoxoxoxoxx
+x     x   x xoxooox x     x     x   x   x   x   x   x   x x xooox xooooox xoooxooox xoxox xoooxoxox 
+xxxxxxx xxxxxoxoxxx x xxx xxxxx xxx x xxx xxxxx x x xxx x x xoxxxxxoxxxxx xxxxxxxoxxxoxox xxxxxoxox 
+x     x x   xooox   x   x   x   x x x x   x     x x     x   xoooooxooox         xoooooxox     xoxox 
+x xxx x x x xxxxx x x x xxxxx xxx x x x xxxxx x x xxxxxxxxx xxxxxox xoxxx xxx xxxxxxxxxoxxxxx xoxox 
+x x     x x     x x x x x   x x   x x x x     x x x     x   x xooox xox   x x xoooxoooxooooox xoxooo
+x xxxxxxx x xxx xxx x x x x x x x x x x x xxxxxxx x xxxxx xxx xoxxxxxox xxx x xoxoxoxoxxxxxox xoxxxo
+x   x     x   x     x x x x x x x   x     x   x   x x     x   xox  ooox x     xoxoooxooo  xoooxoxooo
+x x x xxxxxxx xxxxxxxxx x x x xxx xxxxxxxxx x x xxx x xxxxx x xoxxxoxxx x xxxxxoxxxxxxxoxxxxxoxoxoxx
+x x     x     x         x x x   x x         x   x   x   x   x xooooox   x xoooxooox   xoxoooooxoxox 
+x xxxxxxx xxxxx x xxxxxxx x xxx x x xxxxxxxxxxxxxxx xxx x xxx xxxxxxx xxxxxoxoxxxox x xoxoxxxxxoxox 
+x x   x   x     x     x   x     x x x     x           x x x x x     xoooooxoxooooox x xooox   xooox 
+x x xxx xxxxx xxxxxxx x xxxxxxxxxxx xxxxx x xxxxx xxxxx x x x x xxxxxoxxxoxoxxxxxxx xxxxxxxxx xxxxx 
+x x   x     x x   x   x     x       x   x x x   x   x     x     xoooooxoooxooox   x                 
+x xxx xxxxx x x x x x xxxxx xxxxx xxx x x x x x xxx x xxxxx xxxxxoxxxxxoxxxxxox x x xxx xxxxxxxxxxx 
+x x   x     x x x x x x x   x     x   x x x x x   x   xooox xoooxoooooxoooooxox x x x   x     x     
+x x x x xxxxx x xxx x x x xxx xxxxxxx x x x xxxxx xxxxxoxoxxxoxoxxxxxoxxxxxoxox x x x xxx xxx x xxxx
+x   x x x x   x   x x   x x   x x     x   x   x   xoooooxoooxoxooooooox xoooxox x x x x     x     x 
+xxxxxxx x x xxxxx x xxxxx x xxx x x xxx xxxxx x x xoxxxxxxxoxoxxxxxxxxx xoxxxox x x x xxxxxxxxxxx x 
+x       x x x     x     x   x   x x x   x   x x x xoooooooxooox     x   xooooox x   x x     x   x   
+x xxxxxxx x x xxx xxxxx xxxxx xxx x xxxxx x x x xxxxxxxxxoxxxxxxx xxx x xxxxxxx xxxxx x xxx x x xxxx
+x   x   x   x   x     x       x   x x     x   x xooooooooox     x     x       x x x   x   x   x     
+xxx x x x xxxxx xxx xxxxxxxxx x xxx x xxxxxxxxx xoxxxxxxxxxxx x xxxxxxxxx xxxxx x x xxxxx xxxxxxxxx 
+x   x x   x     x   x       x x x   x   x   x   xox   x       x           x       x     x x       x 
+x xxx xxxxxxx xxx xxx xxxxx x x x xxxxx x x x xxxox xxx xxx xxxxxxxxx xxxxx xxxxxxxxx xxx x x xxxxx 
+x x       x   x   x x     x x   x     x x x   xooox x   x   x     x   x   x     x   x       x x   x 
+x xxxxxxx x xxxxx x xxxxx x xxxxxxx xxx x xxxxxoxxx x xxx xxx xxx xxxxx x xxx xxx x xxxxxxxxx x x x 
+x     x x x     x   x   x x   x   x x   x xoooxooox x x   x   x x   x   x     x   x       x   x x   
+x xxx x x xxxxx xxx x x x xxx x x x x xxx xoxoxxxox x x x x xxx xxx x xxxxx xxx xxxxxxxxx xxxxx xxx 
+x x x x         x x x x x x   x x   x     xoxo  xox   x x x x     x   x   x x   x   x   x       x x 
+x x x xxxxxxxxxxx x x xxx x xxx xxxxxxxxx xoxoxxxox xxx x x x xxx xxxxx x xxx xxx x xxx xxxxxxxxx x 
+x   x         x x   x   x x   x x   x     xoxooooox x   x x x   x x     x   x     x x   x x     x   
+x xxxxxxxxxxx x x xxxxx x xxx x x x x xxxxxoxxxxxxxxx xxx x xxx x x xxxxxxx xxxxx x x x x x xxx x xx
+x x   x   x   x   x     x   x x   x   x   xooooooooox x   x     x x     x   x   x x x x   x   x x   
+x x x x x x xxx xxxxx xxxxx x xxxxxxxxx x xxxxxxxxxox xxx xxxxxxx xxxxx xxx x x xxx x xxxxxxx x xxx 
+x x x   x   x     x   x     x           x         xox   x     x       x   x   x     x x       x   x 
+x x xxxxxxxxxxxxx x xxx xxxxxxxxxxxxxxxxxxxxxxx xxxoxxx xxxxxxx xxxxxxxxx xxx xxxxxxx x xxxxxxx xxx 
+x x   x       x   x   x     x     x           x   xooox           x       x   x     x   x     x     
+x xxx x xxxxx xxx xxx xxxxx x xxx x xxxxxxxxx xxx xxxox xxxxxxxxxxx xxxxxxx xxx xxx x xxx xxxxxxx xx
+x x   x     x   x     x     x x   x x             xooox   xooooooox       x x   x   x     x     x   
+xxx x x xxxxxxx xxxxxxx xxxxx x xxx xxxxx xxxxxxxxxoxxxxxxxoxxxxxox xxxxx xxx xxx xxxxxxxxx xxx xxxx
+x   x x x       x       x     x x       x xoooooooooxoooxoooxoooxox xooox       x           x x     
+x xxxxx x x xxxxx xxxxxxx xxxxx x xxxxx xxxoxxxxxxxxxoxoxoxxxoxoxoxxxoxoxxxxxxxxxxx xxxxxxxxx xxxxx 
+x   x   x x x     x   x   x     x   x   xooox        oxoxoooxoxoooxoooxoooxooooooox       x       x 
+x x x xxx xxx xxxxx x x xxx xxxxxxx x xxxoxxx xxxxxxxoxoxxxoxoxxxxxoxxxxxoxoxxxxxoxxxxxxx xxx xxxxx 
+x x     x         x x   x x   x     x   xooox   xoooooxoooooxooox xoooooxooox   xox   x   x   x     
+x xxxxxxxxxxxxxxxxx xxxxx xxx xxxxx xxx xxxoxxx xoxxxxxxxxxxxxxox x xxxoxxxxx xxxox x x xxx xxx xxx 
+x x x         x   x   x     x x   x   x   xox   xooox          ox   xoooxoooooxooox x x x   x   x   
+x x x xxxxxxx x x xxx x xxx x x x xxxxx x xoxxx xxxox xxxxxxxxxox xxxoxxxoxxxoxoxxx xxx xxx x xxx xx
+x   x   x     x x     x x x x   x x     x xooox xooox xoooooooxox xooox xoooxoxox       x   x   x   
+xxx xxx xxx xxx xxxxxxx x x xxxxx x x xxxxxxxoxxxoxxx xoxxxxxoxoxxxoxxx xxxoxoxox xxxxxxx x xxx xxx 
+x   x x   x     x     x   x         x xoooooooxooox   xoooooxoxoooxox   xoooxooox         x   x x   
+x xxx xxx xxxxxxx xxx xxx xxxxxxxxxxxxxoxxxxxxxoxxxxx xxxxxoxoxxxoxox x xoxxxxxxx xxxxxxxxxxx x xxxx
+x       x   x     x x x   x   x       xoooooooxooooox   xoooxox xooox x xoxooooox xooooooooox x     
+xxxxxxx xxx x xxxxx x xxxxx x x xxxxx xxxxxxxoxxxxxoxxxxxoxxxox xxxxx xxxoxoxxxoxxxoxxxxxxxox xxxxx 
+x   x   x x   x     x     x x x   x x       xoxoooxoooooooxooox xoooooooooxoxoooxooox xooooox     x 
+x xxx xxx xxxxx xxx xxxxx x x xxx x xxxxxxx xoxoxoxxxxxxxxxoxxx xoxxxxxxxxxoxoxxxoxxx xoxxxxxxxxxxB 
+x               x       x   x             x  oooxooooooooooox    oooooooooooxooooox    oooooooooooo 
